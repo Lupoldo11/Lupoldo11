@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋, I'm Lupoldo!!
 
-<!--
-**Lupoldo11/Lupoldo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm a software developer passionate about building applications and tools. I'm interested in backend development, communication apps, and the IoT, and I enjoy learning more about technology and best practices. If you'd like to work with me, please get in touch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies I use
+
+### Lenguage
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,c" />
+</p>
+
+### Librery, Frameworks and SO
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,androidstudio,linux,windows" />
+</p>
+
+### Other tools
+<p>
+  <img src="https://skillicons.dev/icons?i=maven,git,docker,postman,postgresql,mysql,notion,idea" />
+</p>
