@@ -10,7 +10,7 @@ I'm a software developer passionate about building applications and tools. I'm i
 
 ### Lenguage
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,c" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python" />
 </p>
 
 ### Librery, Frameworks and SO
